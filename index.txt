@@ -1,2 +1,6 @@
 code for index
+
 code for dog
+
+code for buffalo
+
